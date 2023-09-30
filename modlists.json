@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Fallout Anomaly",
-    "description": "Best thing since sliced bread",
+    "title": "Fallout Anomaly (beta)",
+    "description": "Embark on an epic journey through the post-apocalyptic wastelands of Fallout 4 like never before! In Fallout Anomaly, you'll step into the worn boots of a survivor born in the shadow of Moscow's destruction, shaped by the horrors of war and the relentless threat of radiation. This modpack seamlessly blends the best elements from popular mod lists, creating an unforgettable experience.",
     "author": "The FA Dev Team",
     "maintainers": [
       "github/ample-samples"
@@ -10,28 +10,29 @@
     "game": "fallout4",
     "tags": [
       "testing",
-      "<any tags you want in the UI, each in its own string"
+      "S.T.A.L.K.E.R.",
+      "hardcore"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
+      "image": "https://cdn.discordapp.com/attachments/1156924067773952070/1156924068516335688/Photo69.png?ex=6518b740&is=651765c0&hm=ced0615989fa2e8ad81d6c6189a76f3b2a97fe9d85de3f22b78b247d5eac5ce3&",
+      "readme": "https://www.nexusmods.com/fallout4/mods/74075?tab=description",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "fallout_anomaly",
       "discordURL": "https://discord.gg/auWFe5zNzS"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash":"n8Qd0U7GB+k=",
+      "Size":46845953,
+      "NumberOfArchives":856,
+      "SizeOfArchives":151307974826,
+      "NumberOfInstalledFiles":61138,
+      "SizeOfInstalledFiles":172274952872
     },
-    "version": "1.0"
+    "version": "0.4.7"
   }
 ]
