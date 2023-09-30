@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://cdn.discordapp.com/attachments/1156924067773952070/1156924068516335688/Photo69.png?ex=6518b740&is=651765c0&hm=ced0615989fa2e8ad81d6c6189a76f3b2a97fe9d85de3f22b78b247d5eac5ce3&",
+      "image": "https://raw.githubusercontent.com/ample-samples/fallout-anomaly-modlist/main/FAImage.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/74075?tab=description",
       "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_b087e3a9-f209-4155-926f-d5b5cf65fdd6",
       "machineURL": "fallout_anomaly",
