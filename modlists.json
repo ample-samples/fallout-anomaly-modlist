@@ -8,10 +8,13 @@
       "github/ample-samples"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "testing",
       "S.T.A.L.K.E.R.",
-      "hardcore"
+      "Hardcore",
+      "Overhaul",
+      "Sim Settlements 2"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -20,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://cdn.discordapp.com/attachments/1156924067773952070/1156924068516335688/Photo69.png?ex=6518b740&is=651765c0&hm=ced0615989fa2e8ad81d6c6189a76f3b2a97fe9d85de3f22b78b247d5eac5ce3&",
       "readme": "https://www.nexusmods.com/fallout4/mods/74075?tab=description",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://build.wabbajack.org/authored_files/direct_link/Fallout%20-%20Anomaly.wabbajack_b087e3a9-f209-4155-926f-d5b5cf65fdd6",
       "machineURL": "fallout_anomaly",
       "discordURL": "https://discord.gg/auWFe5zNzS"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash":"n8Qd0U7GB+k=",
-      "Size":46845953,
-      "NumberOfArchives":856,
-      "SizeOfArchives":151307974826,
-      "NumberOfInstalledFiles":61138,
-      "SizeOfInstalledFiles":172274952872
+      "Hash": "n8Qd0U7GB+k=",
+      "Size": 46845953,
+      "NumberOfArchives": 856,
+      "SizeOfArchives": 151307974826,
+      "NumberOfInstalledFiles": 61138,
+      "SizeOfInstalledFiles": 172274952872
     },
     "version": "0.4.7"
   }
