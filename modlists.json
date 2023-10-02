@@ -1,7 +1,7 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "BETA Fallout Anomaly",
+    "title": "Fallout Anomaly",
     "description": "\"Fallout: Anomaly\" is the culmination of a bold vision that brings together some of the most renowned mod lists in the Fallout 4 community. Our team has meticulously combined the best elements from \"A Storywealth\" for its rich content, \"Immersive Wasteland\" for its survival challenges and zombie-like threats, \"Vault Boy 101 Total Overhaul v.2.0\" for its modern gameplay enhancements, and \"Lost World\" for its immersive S.T.A.L.K.E.R.-like experience. We believe that no one mod list should have to compromise on one aspect while excelling in another, and \"Fallout: Anomaly\" aims to provide it all.",
     "author": "The FA Dev Team",
     "maintainers": [
@@ -11,7 +11,6 @@
     "game": "fallout4",
     "official": false,
     "tags": [
-      "S.T.A.L.K.E.R.",
       "Hardcore",
       "Overhaul",
       "Sim Settlements 2"
