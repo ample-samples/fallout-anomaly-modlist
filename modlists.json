@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Fallout Anomaly",
-    "description": "Fallout: Anomaly Beta testing is currently in progress. Please access our temporary file through the Nexus for the time being. - Fallout Anomaly Wabbajack Mod List",
+    "title": "Fallout Anomaly (Beta)",
+    "description": "Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind guaranteed, seamlessly merging the Stalker series & Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience.",
     "author": "The FA Dev Team",
     "maintainers": [
       "github/ample-samples",
@@ -30,12 +30,12 @@
 
       
     },
-    "version": "0.4.7"
+    "version": "0.4.7 beta"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Fallout Anomaly",
-    "description": "Fallout: Anomaly Beta testing is currently in progress. Please access our temporary file through the Nexus for the time being. - Fallout Anomaly Wabbajack Mod List",
+    "description": "Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind guaranteed, seamlessly merging the Stalker series & Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience.",
     "author": "The FA Dev Team",
     "maintainers": [
       "github/ample-samples",
