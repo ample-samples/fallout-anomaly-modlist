@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ample-samples/fallout-anomaly-modlist/fallout_anomaly_wabbajack_beta.png",
+      "image": "https://raw.githubusercontent.com/ample-samples/fallout-anomaly-modlist/main/fallout_anomaly_wabbajack_beta.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/74075?tab=description",
       "download": "",
       "machineURL": "fallout_anomaly_beta",
@@ -53,7 +53,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ample-samples/fallout-anomaly-modlist/fallout_anomaly_wabbajack_stable.png",
+      "image": "https://raw.githubusercontent.com/ample-samples/fallout-anomaly-modlist/main/fallout_anomaly_wabbajack_stable.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/74075?tab=description",
       "download": "",
       "machineURL": "fallout_anomaly_stable",
