@@ -36,5 +36,43 @@
       "SizeOfInstalledFiles": 172274952872
     },
     "version": "0.4.7"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Fallout Anomaly",
+    "description": "Fallout: Anomaly Beta testing is currently in progress. Please access our temporary file through the Nexus for the time being. - Fallout Anomaly Wabbajack Mod List",
+    "author": "The FA Dev Team",
+    "maintainers": [
+      "github/ample-samples",
+      "github/NomadsReach"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Hardcore",
+      "Overhaul",
+      "Sim Settlements 2"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": true,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/ample-samples/fallout-anomaly-modlist/main/FAImage.png",
+      "readme": "https://www.nexusmods.com/fallout4/mods/74075?tab=description",
+      "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_b087e3a9-f209-4155-926f-d5b5cf65fdd6",
+      "machineURL": "fallout_anomaly",
+      "discordURL": "https://discord.gg/auWFe5zNzS"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "n8Qd0U7GB+k=",
+      "Size": 46845953,
+      "NumberOfArchives": 856,
+      "SizeOfArchives": 151307974826,
+      "NumberOfInstalledFiles": 61138,
+      "SizeOfInstalledFiles": 172274952872
+    },
+    "version": "0.4.7"
   }
 ]
