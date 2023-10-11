@@ -2,7 +2,7 @@
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
         "title": "Fallout Anomaly 0.4.7 Beta",
-        "description": "Important Notice: This is a beta version and is not the final product. Expect potential issues and incomplete features. Your feedback is crucial in refining the final release.\n\nImportant Notice: Introducing our stable release! While it may not have all the features from the beta, you can try our beta version to explore those exciting additions. We value your feedback as we strive to deliver the best experience possible. Give it a go! Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind guaranteed, seamlessly merging the Stalker series & Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience.",
+        "description": "Important Notice: Introducing our stable release! While it may not have all the features from the beta, you can try our beta version to explore those exciting additions. We value your feedback as we strive to deliver the best experience possible. Give it a go! Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind guaranteed, seamlessly merging the Stalker series & Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience.",
         "author": "The Fallout Anomaly Dev Team",
         "maintainers": [
             "github/ample-samples",
