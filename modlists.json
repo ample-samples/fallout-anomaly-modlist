@@ -25,18 +25,18 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/ample-samples/fallout-anomaly-modlist/main/fallout_anomaly_wabbajack_beta.png",
             "readme": "https://www.nexusmods.com/fallout4/articles/4649",
-            "download": "https://build.wabbajack.org/authored_files/direct_link/Fallout%20-%20Anomaly.wabbajack_4e7dab33-200e-4daa-b48b-20312ee8c967",
+            "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_e03919cb-506d-45d6-9573-53bd7f2e6c69",
             "machineURL": "fallout_anomaly_beta",
             "discordURL": "https://discord.gg/auWFe5zNzS"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "wb3kBzBB79o=",
-            "Size": 324920219,
-            "NumberOfArchives": 959,
-            "SizeOfArchives": 178716686093,
-            "NumberOfInstalledFiles": 53090,
-            "SizeOfInstalledFiles": 187247266476
+            "Hash":"MjJ/Edk8d1o=",
+            "Size":16935008,
+            "NumberOfArchives":955,
+            "SizeOfArchives":175118481496,
+            "NumberOfInstalledFiles":36336,
+            "SizeOfInstalledFiles":176945464836
         },
         "version": "0.4.7"
     }
